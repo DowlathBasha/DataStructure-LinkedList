@@ -30,6 +30,6 @@ In this repository contains only, list of Linked List questions based on Intervi
 
 14.  intersection of two linked list
 
-15.  add two linke list
+15.  add two linked list
 
 16.  swap pairs.
